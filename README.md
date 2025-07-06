@@ -29,15 +29,3 @@ This is a modern and responsive **E-Commerce Frontend Website** designed for a *
 - **JavaScript** – Basic interactivity (menu toggle, filter simulation)
 
 ---
-
-## 📁 Folder Structure
-
-
----
-
-### ✅ What You Should Do Next:
-- Replace the GitHub clone URL and live link if different.
-- Add screenshots to show your homepage, product section, etc.
-- Commit this as `README.md` in your project root.
-
-Want me to create an actual file content you can copy-paste or upload directly?
