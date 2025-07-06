@@ -6,7 +6,7 @@
 
 ## 📌 Live Preview
   
-👉 [Click here to view the live portfolio](cozycorners.netlify.app)  
+👉 [Click here to view the live CozyCorners](cozycorners.netlify.app)  
 
 ---
 
@@ -36,11 +36,11 @@
 ---
 
 ## 📁 Project Structure
-├── index.html # Main webpage
-├── style.css # CSS styles including modals and grid
-├── script.js # JS for navbar, filter, modal, scroll
-├── assets/
-│ └── img/ # Images for products, blog, hero, etc.
+- ├── index.html # Main webpage
+- ├── style.css # CSS styles including modals and grid
+- ├── script.js # JS for navbar, filter, modal, scroll
+- ├── assets/
+- └── img/ # Images for products, blog, hero, etc.
 
 ---
 
