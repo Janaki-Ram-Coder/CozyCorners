@@ -10,14 +10,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Hero Section | Product Grid | Login Modal |
-|--------------|--------------|--------------|
-| ![Hero](assets/img/hero-product-1.jpg) | ![Products](assets/img/product-1.jpg) | ![Modal](assets/img/blog-1.jpg) |
-
----
-
 ## 💡 Features
 
 - ✅ Fully responsive layout
@@ -53,20 +45,19 @@
 ---
 
 ## 🚀 Future Scope
--✅ Search bar functionality
--✅ Wishlist and cart functionality
--✅ Product detail popup view
--✅ LocalStorage or Firebase integration
--✅ Backend with Node.js or Spring Boot
+- ✅ Search bar functionality
+- ✅ Wishlist and cart functionality
+- ✅ Product detail popup view
+- ✅ LocalStorage or Firebase integration
+- ✅ Backend with Node.js or Spring Boot
 
 ---
 
 ## 👨‍💻 Developer Info
 ## K Janaki Ram
--🎓 MCA Student @ GIET University, Gunupur
--💼 Skills: Java, Spring Boot, ReactJS, MySQL, MongoDB, Node.js, Docker
--📬 Email: janakiram9471@gmail.com
--🌐 GitHub: Janaki-Ram-Coder
+- 🎓 MCA Student @ GIET University, Gunupur
+- 📬 Email: janakiram9471@gmail.com
+- 🌐 GitHub: Janaki-Ram-Coder
 
 ---
 
