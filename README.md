@@ -5,8 +5,7 @@
 ---
 
 ## 📌 Live Preview
-
-> *(Optional)* Add your live GitHub Pages or Netlify link here  
+  
 > Example: [Live Demo](https://yourusername.github.io/cozycorners)
 
 ---
@@ -45,4 +44,30 @@
 ---
 
 ## 📁 Project Structure
+├── index.html # Main webpage
+├── style.css # CSS styles including modals and grid
+├── script.js # JS for navbar, filter, modal, scroll
+├── assets/
+│ └── img/ # Images for products, blog, hero, etc.
 
+---
+
+## 🚀 Future Scope
+-✅ Search bar functionality
+-✅ Wishlist and cart functionality
+-✅ Product detail popup view
+-✅ LocalStorage or Firebase integration
+-✅ Backend with Node.js or Spring Boot
+
+---
+
+## 👨‍💻 Developer Info
+## K Janaki Ram
+-🎓 MCA Student @ GIET University, Gunupur
+-💼 Skills: Java, Spring Boot, ReactJS, MySQL, MongoDB, Node.js, Docker
+-📬 Email: janakiram9471@gmail.com
+-🌐 GitHub: Janaki-Ram-Coder
+
+---
+
+## THANK YOU
