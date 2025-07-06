@@ -1,31 +1,52 @@
-# CozyCorners
-This project is a responsive and visually appealing E-Commerce website for a furniture store, built using HTML, CSS, and JavaScript. It focuses on frontend design and layout, showcasing a modern UI for browsing, searching, and viewing furniture products.
-# 🪑 Furniture E-Commerce Website (Frontend Only)
+from pathlib import Path
 
-This is a modern and responsive **E-Commerce Frontend Website** designed for a **furniture store**. Built using **HTML, CSS, and JavaScript**, this project focuses on creating a clean UI/UX for showcasing products and enhancing user experience.
+# Define the README content with Future Scope and Developer Info included
+readme_content = """
+# 🪑 CozyCorners - Modern Furniture eCommerce Website
 
-## 🔗 Live Demo
+**CozyCorners** is a modern, responsive furniture eCommerce website template created using **HTML**, **CSS**, and **JavaScript**. It features a stylish layout, product category filtering, search input UI, and a basic login modal—all built with pure frontend technologies.
 
-👉 **[Click here to view the live site](https://janakiramportfolio.netlify.app)**  
-(Replace this link with your actual deployed project link if it's different.)
+---
+
+## 📌 Live Preview
+
+> *(Optional)* Add your live GitHub Pages or Netlify link here  
+> Example: [Live Demo](https://yourusername.github.io/cozycorners)
+
+---
+
+## 🖼️ Screenshots
+
+| Hero Section | Product Grid | Login Modal |
+|--------------|--------------|--------------|
+| ![Hero](assets/img/hero-product-1.jpg) | ![Products](assets/img/product-1.jpg) | ![Modal](assets/img/blog-1.jpg) |
 
 ---
 
 ## 💡 Features
 
-- 🖼️ Hero section with promotional content  
-- 🪑 Product listing layout (static data)  
-- 📱 Fully responsive design (mobile, tablet, desktop)  
-- 🧭 Navigation bar with categories  
-- 📦 Product detail section (static)  
-- 🛒 Cart icon (UI only, no backend functionality)
+- ✅ Fully responsive layout
+- ✅ Product filtering by category
+- ✅ Interactive hover effects
+- ✅ Search input field (UI only)
+- ✅ Login popup modal (UI + dummy login)
+- ✅ Scroll-to-top button
+- ✅ Sidebar with language and currency switcher
+- ✅ Blog preview section
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-- **HTML5** – Page structure  
-- **CSS3** – Styling and responsive layout  
-- **JavaScript** – Basic interactivity (menu toggle, filter simulation)
+| Technology | Description |
+|------------|-------------|
+| HTML5 | Markup and layout |
+| CSS3 | Styling, variables, transitions |
+| JavaScript (Vanilla) | DOM manipulation, filtering, modals |
+| Google Fonts | Typography |
+| Ionicons | Icons used in UI |
 
 ---
+
+## 📁 Project Structure
+
