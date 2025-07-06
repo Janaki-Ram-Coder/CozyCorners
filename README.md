@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Define the README content with Future Scope and Developer Info included
-readme_content = """
 # 🪑 CozyCorners - Modern Furniture eCommerce Website
 
 **CozyCorners** is a modern, responsive furniture eCommerce website template created using **HTML**, **CSS**, and **JavaScript**. It features a stylish layout, product category filtering, search input UI, and a basic login modal—all built with pure frontend technologies.
