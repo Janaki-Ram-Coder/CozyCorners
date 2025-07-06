@@ -6,7 +6,7 @@
 
 ## 📌 Live Preview
   
-👉 [Click here to view the live CozyCorners](cozycorners.netlify.app)  
+👉 [Click here to view the live CozyCorners](cornerscozy.netlify.app)  
 
 ---
 
