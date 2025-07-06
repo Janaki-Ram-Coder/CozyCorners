@@ -6,7 +6,7 @@
 
 ## 📌 Live Preview
   
-> Example: [Live Demo](https://yourusername.github.io/cozycorners)
+👉 [Click here to view the live portfolio](cozycorners.netlify.app)  
 
 ---
 
